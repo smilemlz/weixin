@@ -3,7 +3,7 @@
 ![image](https://github.com/songhaoreact/weixin/blob/master/screenshots/1.png)
 ![image](https://github.com/songhaoreact/weixin/blob/master/screenshots/2.png)
 ![image](https://github.com/songhaoreact/weixin/blob/master/screenshots/3.png)
-### 说明
+### 安装说明
 
 ```
 screenshots文件夹不需要，只是github上的效果图。
