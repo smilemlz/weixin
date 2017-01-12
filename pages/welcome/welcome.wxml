@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="avatar" src="/images/avatar/1.png"></image>
+    <text class="motto">来这里找电影</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">进入找电影</text>
+    </view>
+</view>
