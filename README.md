@@ -1,6 +1,8 @@
 ## 微信小程序-豆瓣电影项目
-#### 项目树
-.
+## 项目树
+
+```
+
 ├── README.md
 ├── app.js
 ├── app.json
@@ -82,6 +84,7 @@
 │   └── 3.png
 └── utils
     └── util.js
+```
 ### 效果图
 ![image](https://github.com/songhaoreact/weixin/blob/master/screenshots/1.png)
 ![image](https://github.com/songhaoreact/weixin/blob/master/screenshots/2.png)
@@ -99,3 +102,4 @@
 screenshots文件夹不需要，只是github上的效果图。
 项目来自慕课网实战。
 感兴趣的童鞋可以来个star。
+```
